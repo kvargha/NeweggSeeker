@@ -1,0 +1,3 @@
+- Python based project that utilizes the BeautifulSoup API and the Bitly API
+- Prompts the user for a product name, and web scraps Newegg for the specified product name, URL, price, and shipping cost
+- Automatically shortens the URL using the Bitly API, then exports all the data to a spreadsheet
